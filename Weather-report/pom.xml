@@ -18,7 +18,7 @@
   </properties>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/marcor0311/databases-I.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/marcor0311/Databases-I.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
@@ -26,7 +26,7 @@
     <repository>
       <id>github</id>
       <name>marcor0311</name>
-      <url>https://maven.pkg.github.com/marcor0311/databases-I</url>
+      <url>https://maven.pkg.github.com/marcor0311/Databases-I</url>
     </repository>
   </distributionManagement>
 
