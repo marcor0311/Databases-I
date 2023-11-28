@@ -1,4 +1,4 @@
-# Feedbacj
+# Feedback
 
 Malas: 2(a), 6(a), 16(f), 23(c), 38(c)
 
