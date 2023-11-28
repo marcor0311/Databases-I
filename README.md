@@ -10,5 +10,5 @@ This course provided a solid introduction to foundational database principles an
 
 ## Implementation
 
-It's crucial to note that all course concepts and examples were implemented using MySQL for relational database management.
+It's important to note that all course concepts and examples were implemented using MySQL for relational database management.
 
